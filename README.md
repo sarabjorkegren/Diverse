@@ -40,3 +40,39 @@ gantt
     T6.2 Dissemination & Communication :wp6b, 2023-10-01, 2027-09-30
 ```
 
+```mermaid
+gantt
+    title P2P Project Timeline (Oct 2023 – Sep 2027)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %Y
+
+    section WP1
+    Project Management : 2023-10-01, 2027-09-30
+
+    section WP2
+    T2.5 Heater Dev : 2023-10-01, 2025-09-30
+    2.5.1 Heater Design (KTH) :crit, 2023-10-01, 2025-09-30
+    2.5.2 Prototype Test (KTH) :crit, 2023-10-01, 2025-09-30
+
+    section WP4
+    T4.5 sCO2 Cycle : 2024-03-01, 2026-02-28
+    T4.1 Layouts : 2024-09-01, 2027-09-30
+    T4.1.3 PV Hybrid : 2024-09-01, 2027-09-30
+    T4.4 Heater Scale-Up : 2024-09-01, 2026-03-31
+
+    section WP5
+    T5.2 Techno-Eco : 2024-09-01, 2027-09-30
+    T5.3 Model Dev (KTH) :crit, 2024-09-01, 2027-03-31
+    5.3.1 Cost & KPIs :crit, 2024-09-01, 2025-03-31
+    M18 KPIs :milestone, 2025-03-31, 0d
+    5.3.2 Optimization :crit, 2024-09-01, 2026-09-30
+    5.3.3 GUI :crit, 2026-03-01, 2027-03-31
+    T5.1 Ops Strategy : 2024-12-01, 2026-05-31
+    T5.4 LCA : 2024-09-01, 2027-03-31
+    T5.5 Social Impact : 2025-09-01, 2027-03-31
+
+    section WP6
+    T6.1 Results Protection : 2023-10-01, 2027-09-30
+    T6.2 Dissemination : 2023-10-01, 2027-09-30
+
+```
