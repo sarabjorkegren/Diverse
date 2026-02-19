@@ -47,18 +47,18 @@ gantt
     axisFormat  %b %Y
 
     section WP1
-    Project Management : 2023-10-01, 2027-09-30
+    Project Management and Coordination (All) : 2023-10-01, 2027-09-30
 
     section WP2
     T2.5 Heater Dev : 2023-10-01, 2025-09-30
-    2.5.1 Heater Design (KTH) :crit, 2023-10-01, 2025-09-30
-    2.5.2 Prototype Test (KTH) :crit, 2023-10-01, 2025-09-30
+    2.5.1 Electric Heater Design (KTH) :crit, 2023-10-01, 2025-09-30
+    2.5.2 EH Prototype Test (KTH) :crit, 2023-10-01, 2025-09-30
 
     section WP4
-    T4.5 sCO2 Cycle : 2024-03-01, 2026-02-28
+    T4.5 sCO2 Cycle Optimization: 2024-03-01, 2026-02-28
     T4.1 Layouts : 2024-09-01, 2027-09-30
     T4.1.3 PV Hybrid : 2024-09-01, 2027-09-30
-    T4.4 Heater Scale-Up : 2024-09-01, 2026-03-31
+    T4.4 EH Scale-Up Consulting : 2024-09-01, 2026-03-31
 
     section WP5
     T5.2 Techno-Eco : 2024-09-01, 2027-09-30
