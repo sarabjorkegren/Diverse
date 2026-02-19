@@ -1,7 +1,8 @@
 #Olika Projekt Timelines etc.
+
 ```mermaid
 gantt
-    title P2P Project Timeline (Oct 2023 – Sep 2027)
+    title P2P Project Timeline for all KTH Contributions (Oct 2023 – Sep 2027)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
@@ -19,8 +20,8 @@ gantt
     section WP4 
     T4.5 Utility-scale sCO2 Cycle (POLIMI) :wp4a, 2024-03-01, 2026-02-28
     T4.1 Up-scaled P2P Layouts (B2Z) :wp4b, 2024-09-01, 2027-09-30
-    T4.1.3 Hybridization with PV (B2Z + KTH) :wp4c, 2024-09-01, 2027-09-30
-    T4.4 Utility-scale Heater Design (SEI Lead) :wp4d, 2024-09-01, 2026-03-31
+    T4.1.3 Hybridization with PV (B2Z) :wp4c, 2024-09-01, 2027-09-30
+    T4.4 Utility-scale Heater Design (Lead) :wp4d, 2024-09-01, 2026-03-31
 
     %% =========================
     section WP5 
