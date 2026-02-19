@@ -21,7 +21,7 @@ gantt
     T4.5 Utility-scale sCO2 Cycle (POLIMI) :wp4a, 2024-03-01, 2026-02-28
     T4.1 Up-scaled P2P Layouts (B2Z) :wp4b, 2024-09-01, 2027-10-01
     T4.1.3 Hybridization with PV (B2Z) :wp4c, 2024-09-01, 2027-10-01
-    T4.4 Utility-scale Heater Design (Lead) :wp4d, 2024-09-01, 2026-03-31
+    T4.4 Utility-scale Heater Design (SEI) :wp4d, 2024-09-01, 2026-03-31
 
     %% =========================
     section WP5 
