@@ -2,7 +2,7 @@
 
 ```mermaid
 gantt
-    title P2P Project Timeline for all KTH Contributions (Oct 2023 – Sep 2027)
+    title P2P Project Timeline for all KTH Contributions (Oct 2023 – Oct 2027)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
