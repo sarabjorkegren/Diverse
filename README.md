@@ -1,5 +1,5 @@
 #Olika Projekt Timelines etc.
-
+```mermaid
 gantt
     title P2P Project Timeline (Oct 2023 – Sep 2027)
     dateFormat  YYYY-MM-DD
@@ -38,7 +38,9 @@ gantt
     section WP6 – Exploitation & Dissemination
     T6.1 Exploitable Results Identification :wp6a, 2023-10-01, 2027-09-30
     T6.2 Dissemination & Communication :wp6b, 2023-10-01, 2027-09-30
+```
 
+```mermaid
     gantt
     title P2P Project Timeline (Oct 2023 – Sep 2027)
     dateFormat  YYYY-MM-DD
@@ -77,3 +79,4 @@ gantt
     section WP6 – Exploitation & Dissemination
     T6.1 Exploitable Results Identification :wp6a, 2023-10-01, 2027-09-30
     T6.2 Dissemination & Communication :wp6b, 2023-10-01, 2027-09-30
+```
